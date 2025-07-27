@@ -1,0 +1,11 @@
+keyword,score,sentiment,num_articles,date
+inflation OR CPI,-0.8303,Negative,4,2025-07-21
+Federal Reserve OR Fed,-0.5413,Negative,7,2025-07-21
+bond OR yields OR Treasury,0.0915,Neutral,5,2025-07-21
+interest rate OR rate hike,0.3681,Positive,10,2025-07-21
+recession,-0.8804,Negative,7,2025-07-21
+inflation OR CPI,-0.3606,Negative,3,2025-07-25
+Federal Reserve OR Fed,-0.4015,Negative,11,2025-07-25
+bond OR yields OR Treasury,0.0341,Neutral,5,2025-07-25
+interest rate OR rate hike,0.0688,Neutral,4,2025-07-25
+recession,0.2247,Positive,3,2025-07-25
